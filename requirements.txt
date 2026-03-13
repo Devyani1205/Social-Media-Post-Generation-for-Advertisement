@@ -1,0 +1,9 @@
+agno
+groq
+fastapi[standard]
+uvicorn
+streamlit
+requests
+flask==3.0.0
+flask-cors==4.0.0
+agno
